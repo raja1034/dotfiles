@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raja@bigspacedigital.net
+	name = Raja Nair
